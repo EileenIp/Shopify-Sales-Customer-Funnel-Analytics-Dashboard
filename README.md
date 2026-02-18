@@ -78,10 +78,9 @@ It mirrors how e-commerce and growth teams monitor **sales performance, customer
 ## 📸 Dashboard Preview
 
 ### Shopify Sales Overview
-![Shopify Sales Dashboard](./Shopify%20Sales%20Dashboard.png)
+<img src="https://github.com/EileenIp/Shopify-Sales-Customer-Funnel-Analytics-Dashboard/blob/main/Shopify%20Sales%20Dashboard.png">
 
 ### Shopify Transaction Details
-<img src="https://github.com/EileenIp/Shopify-Sales-Customer-Funnel-Analytics-Dashboard/blob/main/Shopify%20Sales%20Dashboard.png">
 <img src="https://github.com/EileenIp/Shopify-Sales-Customer-Funnel-Analytics-Dashboard/blob/main/Shopify%20Details%20Dashboard.png">
 ---
 
